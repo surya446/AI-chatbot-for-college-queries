@@ -81,9 +81,5 @@ This project is built for learning, contribution, and placement portfolio purpos
 
 ---
 
-- Replace these:
-  - `https://sreyas-chat-bot.onrender.com/` with your **Render live URL**
-  - `https://github.com/surya446/AI-chatbot-for-college-queries` with your **GitHub repo link**
-  - Screenshot link if you upload one
-
-Let me know if you want a README that includes a **project badge**, **demo video**, or mobile app version later.
+  - `https://sreyas-chat-bot.onrender.com/` **Render live URL**
+  - `https://github.com/surya446/AI-chatbot-for-college-queries`
